@@ -136,11 +136,11 @@ int main(void)
 
 왼쪽 정렬
 
-|(description1)|(description2)|(description3)|
+(description1)|(description2)|(description3)|
 
-|:--|:--|:--|
+:--|:--|:--|
 
-|(Cell1)|(Cell2)|(Cell3)|
+(Cell1)|(Cell2)|(Cell3)|
 
   
 
