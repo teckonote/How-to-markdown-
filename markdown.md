@@ -118,11 +118,11 @@ int main(void)
 
 ### 테이블
 
-    표를 사용하는 것으로 |(단어1)|(단어2)|(단어3)|
+    표를 사용하는 것으로 | (단어1) | (단어2) | (단어3) |
 
                        |--|--|--|
 
-                       |(단어1)|(단어2)|(단어3)|
+                       | (단어1) | (단어2) | (단어3) |
 
     해주면 된다.
 
@@ -136,28 +136,21 @@ int main(void)
 
 왼쪽 정렬
 
-(description1)|(description2)|(description3)|
-
-:--|:--|:--|
-
-(Cell1)|(Cell2)|(Cell3)|
+| (description1) | (description2) | (description3) |
+|:---|:---|:---|
+| Cell1| Cell2 | Cell3 |
 
   
 
 가운데 정렬
 
-|(description1)|(description2)|(description3)|
-
-|:--:|:--:|:--:|
-
-|(Cell1)|(Cell2)|(Cell3)|
-
+| (description1) | (description2) | (description3) |
+|:---|:---|:---|
+| Cell1| Cell2 | Cell3 |
   
 
 오른쪾 정렬
 
-|(description1)|(description2)|(description3)|
-
-|--:|--:|--:|
-
-|(Cell1)|(Cell2)|(Cell3)|
+| (description1) | (description2) | (description3) |
+|:---|:---|:---|
+| Cell1| Cell2 | Cell3 |
